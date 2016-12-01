@@ -1,0 +1,1 @@
+export {fetchMemes} from './memeView'
